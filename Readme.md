@@ -10,7 +10,7 @@ Copyright (c) 2013-2022  Denis Kuzmin <x-3F@outlook.com> github/3F
 
 MvsSln contributors https://github.com/3F/MvsSln/graphs/contributors
 
-We're waiting for your awesome contributions!
+We're waiting for your awesome contributions!iiiiiii
 
 <table><tr><td>
 
